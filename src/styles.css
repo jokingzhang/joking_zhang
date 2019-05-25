@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 500px;
+  height: 500px;
+  background: #ff854c;
+}
+
+.draggable_wrapper {
+  display: inline-block;
+}
